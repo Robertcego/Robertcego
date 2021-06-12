@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertcego&label=Profile%20views&color=000000&style=plastic" alt="robertcego" /> </p>  
 
-- 📘 I’m currently learning **`Next.js`**
+- 📘 I’m currently learning **`Next.js` and `Gatsby.js`**
 
 - 📩 My email: **rocerdasgo@gmail.com**
 
