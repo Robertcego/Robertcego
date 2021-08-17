@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>  
 <h3 align="center">I love FrontEnd Development and React <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" width="40" align="center"/> </h3>   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robertcego&label=Profile%20views&color=000000&style=plastic" alt="robertcego" /> </p>  
-
 - 📘 I’m currently learning **`Next.js` and `Gatsby.js`**
 
 - 📩 My email: **rocerdasgo@gmail.com**
@@ -43,6 +41,6 @@
 </a>
 </p>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertcego&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="robertcego" /></p>  
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=robertcego&show_icons=true&theme=synthwave&locale=en" alt="robertcego" /></p>  
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertcego&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="robertcego" /></p>  
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=robertcego&show_icons=true&theme=synthwave&locale=en" alt="robertcego" /></p>  
   
