@@ -41,6 +41,5 @@
 </a>
 </p>  
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertcego&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="robertcego" /></p>  
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=robertcego&show_icons=true&theme=synthwave&locale=en" alt="robertcego" /></p>  
+
   
