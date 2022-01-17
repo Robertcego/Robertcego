@@ -40,7 +40,9 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a>
 </p>
-![Logo](https://www.codewars.com/users/Robertcego/badges/large)
+<p align="center">
+  <img src="https://www.codewars.com/users/Robertcego/badges/large" alt="Codewars Robertcego">
+</p>
 
 
   
