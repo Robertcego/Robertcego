@@ -3,8 +3,12 @@
 
 - 📘 I’m currently learning **`Next.js` and `TypeScript`**
 
-- 📩 My email: **rocerdasgo@gmail.com**
+<details>
 
+  <summary> - 📩 My email: </summary>
+  
+  **rocerdasgo@gmail.com**
+</details>
 - 🤗 Fun fact **I play guitar and love longboarding cruising**
 
 <h3 align="left">Connect with me:</h3>
