@@ -5,7 +5,7 @@
 
 <details>
 <summary> - 📩 My email: </summary> 
-  **rocerdasgo@gmail.com**
+ <a href="mailto:rocerdasgo@gmail.com">rocerdasgo@gmail.com</a>
 </details>
 
 - 🤗 Fun fact **I play guitar and love longboarding cruising**
