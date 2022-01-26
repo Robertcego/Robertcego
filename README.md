@@ -4,8 +4,8 @@
 - 📘 I’m currently learning **`Next.js` and `TypeScript`**
 
 <details>
-<summary> - 📩 My email: </summary> 
- <a href="mailto:rocerdasgo@gmail.com">rocerdasgo@gmail.com</a>
+<summary> 📩 My email: </summary> 
+ ** <a href="mailto:rocerdasgo@gmail.com">rocerdasgo@gmail.com</a> **
 </details>
 
 - 🤗 Fun fact **I play guitar and love longboarding cruising**
