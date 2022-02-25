@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>  
 <h3 align="center">I love FrontEnd Development and React <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" width="40" align="center"/> </h3>   
 
-- 📘 I’m currently learning **`Next.js` and `TypeScript`**
-
 <details>
 <summary> 📩 My email: </summary> 
  📩<a href="mailto:rocerdasgo@gmail.com">rocerdasgo@gmail.com</a>
