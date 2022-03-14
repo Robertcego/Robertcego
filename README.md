@@ -1,4 +1,4 @@
-![Github header](https://drive.google.com/file/d/1eM68HLu7c3FwxjsplRdO19VB8ftQK-B7/view?usp=sharing)
+[github-banner.png](https://postimg.cc/3dYpQhGZ)
 
 <h1 align="center">Hi 👋, I'm Robert</h1>  
 <h3 align="center">I love FrontEnd Development and React <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" width="40" align="center"/> </h3>   
