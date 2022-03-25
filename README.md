@@ -13,7 +13,7 @@
 <a href="https://dev.to/robertcego" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="robertcego" height="30" width="40" /></a>  
 <a href="https://twitter.com/whoisrobert_" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="whoisrobert_" height="30" width="40" /></a>  
 </p>  
-<p align="left"> <a href="https://twitter.com/whoisrobert_" target="blank"><img src="https://img.shields.io/twitter/follow/whoisrobert_?logo=twitter&style=for-the-badge" alt="whoisrobert_" /></a> </p>  
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
