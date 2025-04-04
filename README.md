@@ -1,4 +1,4 @@
-![github-banner.png](https://i.postimg.cc/Pr6gmY7v/github-banner.png)
+![github-banner-2025](https://github.com/user-attachments/assets/c03351e0-3ce9-4db4-802e-233b22005b84)
 
 ---
 
