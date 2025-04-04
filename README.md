@@ -1,4 +1,4 @@
-![github-banner-2025](https://github.com/user-attachments/assets/8cc04988-f133-4a9d-aef0-75a4b3f979a1)
+![github banner (LinkedIn Article Cover Image)](https://github.com/user-attachments/assets/f9cf39ba-f3b1-41d0-aa58-f787cb5c495b)
 
 ---
 
