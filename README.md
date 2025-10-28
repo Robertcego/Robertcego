@@ -1,13 +1,5 @@
 ![github banner (LinkedIn Article Cover Image)](https://github.com/user-attachments/assets/f9cf39ba-f3b1-41d0-aa58-f787cb5c495b)
 
----
-
-### 📬 Contact Me
-
-📩 <a href="mailto:rocerdasgo@gmail.com">Send me an email</a>
-
----
-
 ### ⚡ Quick Facts
 
 - 💻 I build modern websites and components that scale.
